@@ -1,0 +1,5 @@
+{
+  "name": "yarn-workspace-version-deferred-issue",
+  "packageManager": "yarn@3.2.3",
+  "workspaces": ["packages/*"]
+}
